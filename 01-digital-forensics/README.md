@@ -1,4 +1,4 @@
-# Digital Forensics Investigation — Seized Laptop Case Study
+# Digital Forensics Case Study — Windows Artifact Analysis
 
 ## Overview
 This project involved conducting a full digital forensic investigation of a seized Windows laptop disk image using **Autopsy**. The goal was to recover and interpret artifacts relevant to a suspected security incident, document the process and findings clearly, and apply ethical and legal considerations when handling digital evidence — particularly around Personally Identifiable Information (PII) encountered along the way.
