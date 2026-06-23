@@ -120,4 +120,3 @@ This portfolio contains cleaned summaries and safe project documentation. It doe
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/subha-tasnia-8816662a1
-Email: [subhatasnia2004@gmail.com](mailto:subhatasnia2004@gmail.com)
