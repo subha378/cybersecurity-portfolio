@@ -40,6 +40,45 @@ Applied the **Australian Computer Society (ACS) Code of Ethics** to PII encounte
 - **Minimisation & segregation** — unrelated PII documented by category, not content; isolated from analysis
 - **Transparency & honesty** — discovery logged in case notes without recording the sensitive data itself
 - **Legal compliance** — handling aligned with Privacy Act 1988 obligations, escalated to legal authority only where required
+# Digital Forensics Case Study — Windows Artifact Analysis
+
+## Overview
+This project is a portfolio-safe version of a simulated digital forensics case study completed using **Autopsy**. The project focused on analysing Windows artifacts, documenting evidence locations, and explaining findings in a structured forensic report.
+
+This public version includes only cleaned documentation and redacted screenshots. It does **not** include the original evidence image, university assessment files, private data, screenshots with readable personal information, or restricted material.
+
+## Evidence Areas Demonstrated
+- Evidence source and acquisition review
+- OS account artifact analysis
+- Communication/application artifact review
+- USB device artifact analysis
+- Web history analysis
+- Installed programs review
+- Video file type analysis
+- PII and ethical handling considerations
+
+## Tools Used
+- Autopsy
+- Windows artifact analysis concepts
+- Technical reporting and documentation
+
+## Screenshots
+The screenshots in the `screenshots/` folder are redacted proof-of-work images. They show the tool workflow and analysis areas while removing sensitive case details, personal identifiers, search terms, device IDs, paths, and assignment-specific data.
+
+## Screenshots Included
+1. `01-autopsy-data-source-properties-redacted.png` — Data source/properties review
+2. `02-os-account-artifacts-redacted.png` — OS account artifact analysis
+3. `03-communication-appdata-artifacts-redacted.png` — Communication/application artifacts
+4. `04-usb-device-artifacts-redacted.png` — USB device artifacts
+5. `05-web-history-analysis-redacted.png` — Web history analysis
+6. `06-installed-programs-artifacts-redacted.png` — Installed programs artifacts
+7. `07-video-file-types-redacted.png` — Video file type analysis
+
+## What I Learned
+This project strengthened my understanding of digital forensic workflow, evidence handling, Windows artifacts, technical reporting, privacy-aware investigation, and ethical handling of personally identifiable information.
+
+## Important Note
+This repository is for portfolio demonstration only. It does not publish the original assignment, evidence image, raw screenshots with readable PII, private identifiers, or university-restricted material.
 
 ## Skills Demonstrated
 - Digital forensic investigation & Windows artifact analysis
